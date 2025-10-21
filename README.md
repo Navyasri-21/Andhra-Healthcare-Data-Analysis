@@ -4,6 +4,10 @@
 
 
 <img width="1870" height="749" alt="Canva edit_dashboard" src="https://github.com/user-attachments/assets/ffca3fcb-0df9-42bd-a318-1455d2aa3a7b" />
+
+
+
+
 Andhra_dataset_patients_dashboard
 
 
@@ -17,7 +21,12 @@ Andhra_dataset_patients_dashboard
 
 
 
+
+
 >I have found that there are confusing data and replace with correct data.
+
+
+
 
 
 
@@ -26,7 +35,13 @@ Andhra_dataset_patients_dashboard
 
 
 
+
+
+
 >Created a new column for displaying Area_type (for easier visulisation and to categorize the patients accord to Area) and Created If statement to find the Area_type.
+
+
+
 
 
 
@@ -36,7 +51,12 @@ Andhra_dataset_patients_dashboard
 
 
 
+
+
+
 2.Pivot table
+
+
 
 
 
@@ -47,13 +67,20 @@ Andhra_dataset_patients_dashboard
 
 
 
+
+
 <img width="1920" height="1080" alt="Screenshot 2025-10-21 154419" src="https://github.com/user-attachments/assets/44a14ece-fa44-45ed-89a4-85865611a4b4" />
+
+
+
+
 
 
 
 
 Static Visualisations:
 I also made a few static visualisations so that we can derive insights from our patients data.
+
 
 
 
