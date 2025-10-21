@@ -9,8 +9,7 @@ Andhra_dataset_patients_dashboard
 
 
 1. Data Cleaning
->Made a new sheet called "Working Sheet" so I can always come back to the original raw data
->I checked for Duplicates.
+>Made a new sheet called "Working Sheet" so I can always come back to the original raw data and in orginal data I had checked for Duplicates.
 
 
 
@@ -27,8 +26,7 @@ Andhra_dataset_patients_dashboard
 
 
 
->Created a new column for displaying Area_type (for easier visulisation and to categorize the patients accord to Area)
->Created If statement on the Area_type.
+>Created a new column for displaying Area_type (for easier visulisation and to categorize the patients accord to Area) and Created If statement to find the Area_type.
 
 
 
